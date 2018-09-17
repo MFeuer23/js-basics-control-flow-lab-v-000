@@ -3,9 +3,9 @@ function scuberGreetingForFeet(someNumber) {
   let greeting
   if (someNumber <= 400) {
     greeting = "This one is on me!"
-  } else if (someNumber > 2000) {
+  } else if (someNumber > 2000 && someNumber < 2501) {
     greeting = "I will gladly take your thirty bucks."
-  } else if (someNumber > 2500) {
+  } else {
     greeting = "No can do."
   }
   return greeting;
