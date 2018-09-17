@@ -17,5 +17,6 @@ function ternaryCheckCity(cityName) {
 }
 
 function switchOnCharmFromTip(amount) {
-  
+  let reply
+  switch (amount)
 }
