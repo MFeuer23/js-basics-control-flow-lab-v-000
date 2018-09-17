@@ -1,2 +1,7 @@
 // Write your code in this file!
-let scuberGreetingForFeet = 
+function scuberGreetingForFeet(someNumber) {
+  let greeting
+  if (someNumber <= 400) {
+    greeting = ""
+  }
+} 
