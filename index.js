@@ -23,7 +23,7 @@ function switchOnCharmFromTip(amount) {
       reply = "Thank you so much."
       break;
     case "not as generous":
-      reply = "Thank You."
+      reply = "Thank you."
       break;
     default:
       reply = "Bye."
